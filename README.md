@@ -1,4 +1,4 @@
-# Browser MCP
+# Playwriter Browser MCP
 
 一个独立的 MCP (Model Context Protocol) 服务，通过 [Playwriter](https://github.com/remorses/playwriter) Chrome 扩展连接用户的真实浏览器，提供 **37 个结构化浏览器自动化工具**。
 
@@ -54,7 +54,7 @@ AI Agent (Claude Code / VisionClaw / ...)
 
 ### 前置条件
 
-1. **Chrome 浏览器** — 安装 [Playwriter 扩展](https://chromewebstore.google.com/detail/playwriter-mcp/jfeammnjpkecdekppnclgkkffahnhfhe) 并在目标 tab 上点击激活
+1. **Chrome 浏览器** — 安装 [Playwriter 扩展](https://chromewebstore.google.com/detail/playwriter-mcp/jfeammnjpkecdekppnclgkkffahnhfhe)
 2. **Node.js >= 18**
 3. **Playwriter CLI** — `npm install -g playwriter`
 
